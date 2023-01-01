@@ -219,20 +219,6 @@ https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cartoon
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cartoon.network.usa.eastern.us.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Undefined",Cartoon Network (West) US
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cartoon.network.usa.pacific.us.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",CARTOON NETWORK SE
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/12043/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",CARTOON NETWORK TR
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2325/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",Cartoon Network
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/143/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",Cartoon Network CA
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6508/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",Cartoon Network RO
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6966/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",Cartoon Network TR
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6846/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",Cartoon Network orig
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/9261/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",DISCOVERY CHANNEL
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145942?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",DISCOVERY FAMILY
@@ -1911,48 +1897,6 @@ https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/disney.
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/disney.xd.usa.pacific.us.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Undefined",Disney Xd (East) US
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/disney.xd.usa.eastern.us.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",DISNEY CHANNEL HD IL
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/12242/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",DISNEY JR IL
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/12206/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",DISNEY JUNIOR SE
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/12045/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",DISNEY VIASAT EU LV
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/12026/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",DISNEY XD SE
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/12046/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",Disney
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/524/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",Disney Channel HD CA
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6490/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",Disney Channel RO
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6965/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",Disney Cinemagic HD DE
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2485/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",Disney HD FR
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/15185/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",Disney JR TR
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6843/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",Disney Jr IL
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/2333/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",Disney Jr RO
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6967/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",Disney Junior CA
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6489/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",Disney Junior TR
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6842/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",Disney XD
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/1082/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",Disney XD CA
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6503/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",Disney XD TR
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6844/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",Disney orig
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/9183/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",Magic Disney HD
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/18064/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",минимакс-walt disney HD
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/13064/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/MBC_Bollywood_TV_Channel_Logo.png/512px-MBC_Bollywood_TV_Channel_Logo.png",MBC Bollywood (1080p) [Geo-blocked]
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Undefined",MBC 1 KSA (1080p)
@@ -2575,26 +2519,6 @@ https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nickelo
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nickelodeon.hr.hr.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Undefined",Nickelodeon Junior
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nickelodeon.junior.hr.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",NICKELODEON SE
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/12058/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",Nickelodeon
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/541/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",Nickelodeon CA
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6504/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",Nickelodeon EN
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/1069/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",Nickelodeon HD
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/223/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",Nickelodeon HD DE
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/15182/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",Nickelodeon HD orig
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/9015/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",Nickelodeon RO
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6972/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",Nickelodeon TR
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6848/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",Nickelodeon orig
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/9260/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Undefined",Nickelodeon Austria HD
 http://ziyadiptv.net:80/05519648407TT/05519648407/21234?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Animation;Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png",Spacetoon (1080p)
